@@ -6,7 +6,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,react,html,js,materialui,mysql,nodejs,php,postgres,postman,tailwind,vercel,vscode,ant.design&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,react,html,js,materialui,mysql,nodejs,php,postgres,postman,tailwind,vercel,vscode,antdesign&perline=8)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jedavid99&theme=vue-dark&hide_border=true)<br/>
