@@ -6,7 +6,7 @@
   <img  align="center" " src="./github-header-image (1).png"/>
 </div>
 
-## Hi 👋
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - Soy un apasionado programador junior con grandes aspiraciones en el mundo de la programación. La creatividad es mi motor, la responsabilidad mi guía y la amabilidad mi sello distintivo.
 La puntualidad es clave para mí, y no me detiene ningún reto, por más imposible que parezca. ¡El desafío es mi motivación para crecer y aprender cada día más!
