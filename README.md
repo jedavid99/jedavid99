@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,react,html,js,materialui,mysql,nodejs,php,postgres,postman,tailwind,vercel,vscode&perline=8)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jedavid99&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
