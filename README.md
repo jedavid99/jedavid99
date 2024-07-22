@@ -1,9 +1,9 @@
-
+ 
 
 
 
 <div align=center>
-  <img  align="center" src="./github-header-image.png"/>
+  <img  align="center" height="200" width="700" src="./github-header-image.png"/>
 </div>
 
 
