@@ -20,7 +20,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedavid99&theme=vue-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
