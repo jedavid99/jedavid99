@@ -43,7 +43,12 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align=center>
+  <a  title="Random Dev Quote">
+      <img align="center"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
+    </a>
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jes%C3%BAsdavidhenr%C3%ADquez) 
 
