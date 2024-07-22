@@ -50,6 +50,6 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jes%C3%BAsdavidhenr%C3%ADquez) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jes%C3%BAsdavidhenr%C3%ADquez) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
