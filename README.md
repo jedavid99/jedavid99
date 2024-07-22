@@ -55,6 +55,12 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jes%C3%BAsdavidhenr%C3%ADquez) 
+
+<div align=center>
+  <a href="https://linkedin.com/in/jes%C3%BAsdavidhenr%C3%ADquez"  title="Random Dev Quote">
+      <img align="center"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    </a>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
