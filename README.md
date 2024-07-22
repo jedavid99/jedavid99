@@ -6,6 +6,13 @@
   <img  align="center" " src="./github-header-image (1).png"/>
 </div>
 
+## Hi 👋
+
+- Soy un apasionado programador junior con grandes aspiraciones en el mundo de la programación. La creatividad es mi motor, la responsabilidad mi guía y la amabilidad mi sello distintivo.
+La puntualidad es clave para mí, y no me detiene ningún reto, por más imposible que parezca. ¡El desafío es mi motivación para crecer y aprender cada día más!
+- Me gusta trabajar en equipo, y siempre estoy dispuesto a ayudar a mis compañeros 🤝. ¡
+- Me encanta aprender nuevas tecnologías 👨‍💻 y me gusta estar al día de las últimas tendencias
+en el mundo de la tecnología! ⚡ 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
