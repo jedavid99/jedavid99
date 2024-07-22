@@ -61,6 +61,9 @@ en el mundo de la tecnología! ⚡
     </a>
 </div>
 
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{jedavid99}/count.svg" alt="jedavid99 :: Visitor's Count" /></p>
+
 ## 🌐 Socials:
 
 <div align=center>
