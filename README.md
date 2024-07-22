@@ -9,7 +9,23 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,react,html,js,materialui,mysql,nodejs,php,postgres,postman,tailwind,vercel,vscode&perline=8)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![](https://github-readme-stats.vercel.app/api?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="[https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+![]()<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jedavid99&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
