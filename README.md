@@ -34,9 +34,13 @@
 </p>
 
 
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jedavid99&theme=vue-dark&no-frame=true&no-bg=true&margin-w=4" alt="TROPHY" />
+    </a>
+</div>
 
 
-![](https://github-profile-trophy.vercel.app/?username=jedavid99&theme=vue-dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
