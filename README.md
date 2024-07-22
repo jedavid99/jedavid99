@@ -1,7 +1,10 @@
 
 
 
-![Header](./github-header-image.png)
+
+<div align=center>
+  <img  align="center" src="./github-header-image.png"/>
+</div>
 
 
 
