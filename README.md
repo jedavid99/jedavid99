@@ -6,7 +6,8 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,react,html,js,materialui,mysql,nodejs,php,postgres,postman,tailwind,vercel,vscode,[Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,git,react,html,js,materialui,mysql,nodejs,php,postgres,postman,tailwind,vercel,vscode&perline=8)](https://skillicons.dev)
+[Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jedavid99&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jedavid99&theme=vue-dark&hide_border=true)<br/>
